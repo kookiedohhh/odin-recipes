@@ -1,1 +1,1 @@
-# odin-recipes
+Practice creating a repository and commiting them.
